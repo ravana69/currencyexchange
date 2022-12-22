@@ -23,7 +23,7 @@ jobs:
           base: metadata
           config_timezone: Asia/Kolkata
           plugin_screenshot: yes
-          plugin_screenshot_background: yes
+          plugin_screenshot_background: no
           plugin_screenshot_selector: body
           plugin_screenshot_title:
           plugin_screenshot_url: https://screenapi.cc/google.com/finance/quote/USD-INR?sa=X&ved=2ahUKEwjH3KvfwIz8AhXLT2wGHQ0LBiUQmY0JegQIBhAc
