@@ -26,4 +26,4 @@ jobs:
           plugin_screenshot_background: no
           plugin_screenshot_selector: body
           plugin_screenshot_title: #currencyexchange
-          plugin_screenshot_url: https://screenapi.cc/1000x780/google.com/finance/quote/USD-INR?sa=X&ved=2ahUKEwjH3KvfwIz8AhXLT2wGHQ0LBiUQmY0JegQIBhAc
+          plugin_screenshot_url: https://screenapi.cc/google.com/finance/quote/USD-INR?sa=X&ved=2ahUKEwjH3KvfwIz8AhXLT2wGHQ0LBiUQmY0JegQIBhAc
